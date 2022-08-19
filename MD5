@@ -1,6 +1,6 @@
-97b4cfa152680774e7710e457d56d312 *DESCRIPTION
+43f497736be50a0b614170212b4a0f87 *DESCRIPTION
 43d580e51e34b4081e86a8c5e9edaf1d *NAMESPACE
-0b170b86f0ccc3429bab16e63304d293 *NEWS.md
+cc20962f9f263c350be1a1ae76cdd6cc *NEWS.md
 226aaf1a2471657abc979670354d3a99 *R/canvas.R
 cd308c1c89a956f70e902b2e158a91fe *R/components.R
 a393c1fed215830401dfa24c68fc2f75 *R/depend.R
@@ -20,7 +20,7 @@ b609b0d748eee085343ec5fee8d6e84f *inst/assets/img/toback.png
 ef4d26050228019ecb1296b7f32b2e78 *inst/assets/img/undo.png
 d8afd81d624b3403ae45c824e9120300 *inst/assets/js/FileSaver.js
 8d5f56399c6a637773f05780906dc1f8 *inst/assets/js/dom-to-image.min.js
-89f9ce679560e49ee733eb3d5d7f1211 *inst/assets/js/drawer.js
+9d117ae2bfbbf00f6706779868ef2bbb *inst/assets/js/drawer.js
 621616ae674477fc523bc71a33cda916 *inst/assets/js/drawer_drag_upload.js
 642f5ef966f0e5e9c7dd191b8b7e0f67 *inst/assets/js/drawer_fabric-history.js
 8cde1c59ec2dba991392965b2d896485 *inst/assets/js/drawer_other.js
@@ -29,6 +29,6 @@ d8afd81d624b3403ae45c824e9120300 *inst/assets/js/FileSaver.js
 ae5735bbc1f39f6f87eb853d16065d97 *inst/assets/js/spectrum1.8.1.js
 5d94a8f6d17a5c03224a7c4065871f3b *inst/assets/js/split1.6.0.js
 d59436971aa13b0e0c24d4332543fbef *inst/assets/js/toastr.min.js
-dcfcdb4b79999213df27dac5187e5a51 *man/canvas.Rd
+1d43de09041c6d7efcb12b901f5da2f4 *man/canvas.Rd
 4db15680e1cabc36d7b63b82184e519c *man/toCanvasBtn.Rd
 849ea377a5c81d0d210ace3c2185ac39 *man/toCanvasTextBtn.Rd
